@@ -34,14 +34,6 @@ const Navbar = () => {
             </li>
             <li className="nav-list__item">
               <NavLink
-                to="/projects"
-                className={linkClass}
-              >
-                Projects
-              </NavLink>
-            </li>
-            <li className="nav-list__item">
-              <NavLink
                 to="/contacts"
                 className={linkClass}
               >
